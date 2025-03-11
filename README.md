@@ -1,4 +1,4 @@
-# Mustafa Seymen
+# Mustafa Seymen DİLEKLİ
 
 ## Hakkında
 Ben Mustafa Seymen, yazılım geliştirme ve IT alanlarında deneyime sahip bir profesyonelim. 2021-2024 yılları arasında Meora Mobilya'da IT ve Yazılım Uzmanı olarak çalıştım ve birçok projede yer aldım. Şu anda Ermarin firmasında IT ve Yazılım biriminden sorumluyum.
